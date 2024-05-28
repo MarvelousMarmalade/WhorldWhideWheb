@@ -63,3 +63,19 @@ footer {
 img {
     border-radius: 30px;
 }
+
+.custom-button {
+background-color: #c16512;
+color: black;
+border-radius: 15px;
+padding: 15px 32px;
+border: 20px #302010;
+}	
+.custom-button:active{
+	vertical-align: top;
+	background-color: #82562a;
+	color: #111;
+}
+.text-input{
+
+}
